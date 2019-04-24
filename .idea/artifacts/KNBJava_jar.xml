@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KNBJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KNBJava_jar</output-path>
+    <root id="archive" name="KNBJava.jar">
+      <element id="module-output" name="KNBJava" />
+    </root>
+  </artifact>
+</component>
